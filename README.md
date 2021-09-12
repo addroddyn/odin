@@ -1,0 +1,1 @@
+This is the first project within the Odin Project. See ya on the other side!
